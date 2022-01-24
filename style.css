@@ -1,0 +1,38 @@
+
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;300;400;500&family=Lora:wght@400;500;600&family=Merriweather:ital,wght@0,400;0,700;0,900;1,300;1,400;1,700&family=Poppins:ital,wght@0,400;0,500;1,300&family=Roboto:wght@400;500;700&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;1,800&display=swap');
+
+
+/* body style */
+body{
+    font-family: 'Heebo', sans-serif;
+}
+
+
+/* some-style */
+.all-btn{
+    background:white;
+    color: tomato;
+    outline: turquoise;
+    font-weight: bold;
+}
+.all-btn:hover{
+    color: white;
+    background: tomato;
+}
+.all-btn1{
+    background: #FDF4FA;
+    color: #3F87F5;
+    padding: 0px 70px;
+    margin: 31px 0px;
+}
+.all-btn1:hover{
+      color: #3F87F5; ;
+}
+.mark-card{
+    margin-bottom: 100px;
+}
+.card{
+    width: 292px;
+    border-radius:20px;
+}
