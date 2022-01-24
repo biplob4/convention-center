@@ -36,3 +36,14 @@ body{
     width: 292px;
     border-radius:20px;
 }
+.apple{
+    border:1px solid whitesmoke;
+    padding: 3px 17px;
+    text-align: center;
+    background:black;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+footer{
+    background-color: #0B0D17;
+}
