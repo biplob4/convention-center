@@ -29,12 +29,28 @@ body{
 .all-btn1:hover{
       color: #3F87F5; ;
 }
-.mark-card{
-    margin-bottom: 100px;
+.moment{
+    padding: 100px 0px ;
 }
+.badge{
+    right: 10px;
+  }
 .card{
     width: 292px;
     border-radius:20px;
+}
+
+.badge{
+  right: 10px;
+}
+.login{
+    background: #F9F4F0;
+   
+    margin-top: 50px;
+    border-radius: 10px;
+}
+footer{
+    background-color: #0B0D17;
 }
 .apple{
     border:1px solid whitesmoke;
@@ -43,7 +59,4 @@ body{
     background:black;
     border-radius: 12px;
     margin-bottom: 15px;
-}
-footer{
-    background-color: #0B0D17;
 }
